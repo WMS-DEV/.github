@@ -25,7 +25,8 @@ Our mission is to **push boundaries** in software, design, and innovation, while
 
 ## ✨ What We Do
 
-- 🖥 **Full-stack Development** - Building modern web apps and much more  
+- 🖥 **Full-stack Development** - Building modern web apps and much more
+- ⚙️ **DevOps & Infrastructure** - Running our own servers at an enterprise-grade level
 - 📡 **Community Projects** - Organizing events, sharing knowledge, and mentoring  
 - ⚡ **Research & Innovation** - Tackling cutting-edge ideas with real impact  
 
